@@ -1,0 +1,9 @@
+C:\Users\Administrator\source\repos\ConsoleApp17\ConsoleApp17\bin\Debug\ConsoleApp17.exe.config
+C:\Users\Administrator\source\repos\ConsoleApp17\ConsoleApp17\bin\Debug\ConsoleApp17.exe
+C:\Users\Administrator\source\repos\ConsoleApp17\ConsoleApp17\bin\Debug\ConsoleApp17.pdb
+C:\Users\Administrator\source\repos\ConsoleApp17\ConsoleApp17\bin\Debug\MyLibrary.dll
+C:\Users\Administrator\source\repos\ConsoleApp17\ConsoleApp17\bin\Debug\MyLibrary.pdb
+C:\Users\Administrator\source\repos\ConsoleApp17\ConsoleApp17\obj\Debug\ConsoleApp17.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\source\repos\ConsoleApp17\ConsoleApp17\obj\Debug\ConsoleApp17.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\source\repos\ConsoleApp17\ConsoleApp17\obj\Debug\ConsoleApp17.exe
+C:\Users\Administrator\source\repos\ConsoleApp17\ConsoleApp17\obj\Debug\ConsoleApp17.pdb

@@ -1,0 +1,13 @@
+C:\Users\Administrator\source\repos\ConsoleApp10\ConsoleApp10\obj\Debug\ConsoleApp10.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\source\repos\ConsoleApp10\ConsoleApp10\obj\Debug\ConsoleApp10.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\source\repos\ConsoleApp10\ConsoleApp10\bin\Debug\ConsoleApp10.exe.config
+C:\Users\Administrator\source\repos\ConsoleApp10\ConsoleApp10\bin\Debug\ConsoleApp10.exe
+C:\Users\Administrator\source\repos\ConsoleApp10\ConsoleApp10\bin\Debug\ConsoleApp10.pdb
+C:\Users\Administrator\source\repos\ConsoleApp10\ConsoleApp10\bin\Debug\EntityFramework.dll
+C:\Users\Administrator\source\repos\ConsoleApp10\ConsoleApp10\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Administrator\source\repos\ConsoleApp10\ConsoleApp10\bin\Debug\EntityFramework.xml
+C:\Users\Administrator\source\repos\ConsoleApp10\ConsoleApp10\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Administrator\source\repos\ConsoleApp10\ConsoleApp10\obj\Debug\ConsoleApp10.exe
+C:\Users\Administrator\source\repos\ConsoleApp10\ConsoleApp10\obj\Debug\ConsoleApp10.pdb
+C:\Users\Administrator\source\repos\ConsoleApp10\ConsoleApp10\obj\Debug\ConsoleApp10.Migrations.AddVictorChin.resources
+C:\Users\Administrator\source\repos\ConsoleApp10\ConsoleApp10\obj\Debug\ConsoleApp10.csproj.GenerateResource.Cache
